@@ -1,16 +1,16 @@
 {
-    "name": "qwerty-xcv/Baileys",
+    "name": "anjaiedgar/Baileys",
     "version": "2.1.7",
-    "description": "WhatsApp Modified By 7eppeli",
+    "description": "Anjaiedgar/BaileysV1 modified bye King Edgar",
     "keywords": [
         "whatsapp-baileys"
     ],
-    "homepage": "https://github.com/qwerty-xcv/Baileys",
+    "homepage": "https://github.com/anjaiedgar/Baileys",
     "repository": {
-        "url": "https://github.com/qwerty-xcv/Baileys"
+        "url": "https://github.com/anjaiedgar/Baileys"
     },
     "license": "MIT",
-    "author": "7eppeli.pdf",
+    "author": "King Edgar",
     "main": "lib/index.js",
     "types": "lib/index.d.ts",
     "files": [
@@ -101,6 +101,6 @@
         "node": ">=20.0.0"
     }, 
     "bugs": {
-      "url": "https://qwerty-xcv/Baileys/issues"
+      "url": "https://github.com/anjaiedgar/Baileys/issues"
     }
 }
