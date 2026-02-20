@@ -1,13 +1,13 @@
 {
-    "name": "qwerty-xcv/Baileys",
+    "name": "anjaiedgar/BaileysV1",
     "version": "2.1.7",
-    "description": "WhatsApp Modified By 7eppeli",
+    "description": "WhatsApp Modified By Edgar",
     "keywords": [
         "whatsapp-baileys"
     ],
-    "homepage": "https://github.com/qwerty-xcv/Baileys",
+    "homepage": "https://github.com/anjaiedgar/BaileysV1",
     "repository": {
-        "url": "https://github.com/qwerty-xcv/Baileys"
+        "url": "https://github.com/anjaiedgar/BaileysV1"
     },
     "license": "MIT",
     "author": "7eppeli.pdf",
